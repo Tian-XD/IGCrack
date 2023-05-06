@@ -205,7 +205,7 @@ def banner():
 """,title=f"{P2}{waktu()}",subtitle=f"{P2}Author GaramXD",width=60,padding=(0,4),style=f"green")) 
 	
 #--- USER AGENT 
-USN = "Mozilla/5.0 (Linux; Android 10; RMX2086 Build/QKQ1.191021.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 Instagram 182.0.0.29.124 Android (29/10; 408dpi; 1080x2180; realme; RMX2086; RMX2086L1; qcom; ru_RU; 283072590)"
+USN = "Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-A730F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/95.0.4623.2 Mobile Safari/537.36 Instagram 76.0.0.15.395 Android (26/8.0.0; 420dpi; 1080x2094; samsung; SM-A730F; jackpot2lte; samsungexynos7885; en_US)"
 
 def User_Agent():
 	dpi_phone = ['133','320','515','160','640','240','120''800','480','225','768','216','1024']
